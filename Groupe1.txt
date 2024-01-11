@@ -1,0 +1,11 @@
+Membres du groupes: 
+GHAZAL Nawel 
+SHIN Seulhi 
+HAJ ABOUDA  Nawres 
+
+
+Projet : Empreinte Carbon 
+   =>Réduir l'empreinte carbon des consommateurs
+   => UsesCases : 1. Donner la localisation + chemin d'un produit dans un magasin et son empreinte carbon 
+   		  2. Donner stattistiques de ventes au gérant du magasin 
+		  3. Suggerer produit alternatifs avce empreinte carbone moins élever   
